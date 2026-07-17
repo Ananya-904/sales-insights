@@ -1,10 +1,10 @@
-# 📊 Sales Insights Dashboard | Power BI
+# Sales Insights Dashboard | Power BI
 
 An interactive **Sales Insights Dashboard** built using **Microsoft Power BI** to analyze business performance across different markets, customers, products, and time periods. This project helps stakeholders monitor key business metrics and make data-driven decisions through dynamic visualizations and filters.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The dashboard provides a comprehensive overview of sales performance by tracking important KPIs such as revenue, sales quantity, market-wise performance, customer contribution, product performance, and revenue trends over time.
 
@@ -18,14 +18,14 @@ It enables users to:
 
 ---
 
-## 📌 Dashboard Features
+## Dashboard Features
 
-### 📈 Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs)
 
 - Total Revenue
 - Total Sales Quantity
 
-### 📊 Visualizations
+### Visualizations
 
 - Revenue by Markets
 - Sales Quantity by Markets
@@ -33,7 +33,7 @@ It enables users to:
 - Top 5 Customers
 - Top 5 Products
 
-### 🎯 Interactive Filters
+### Interactive Filters
 
 - Year Filter
 - Monthly Date Filter
@@ -42,7 +42,7 @@ These slicers allow users to interactively explore the data and gain deeper busi
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -52,7 +52,7 @@ These slicers allow users to interactively explore the data and gain deeper busi
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The project uses a sales dataset containing information such as:
 
@@ -66,7 +66,7 @@ The project uses a sales dataset containing information such as:
 
 ---
 
-## 📊 Business Insights Generated
+## Business Insights Generated
 
 - Delhi NCR contributes the highest revenue among all markets.
 - Revenue shows fluctuations across different months and years.
@@ -76,15 +76,13 @@ The project uses a sales dataset containing information such as:
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
-![Sales Insights Dashboard](dashboard.png)
-
-> Replace `dashboard.png` with your screenshot file name after uploading it to the repository.
+![Sales Insights Dashboard](snapshot-of-the-dashboard.png)
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -98,7 +96,7 @@ The project uses a sales dataset containing information such as:
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 Through this project, I gained practical experience in:
 
@@ -110,7 +108,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Ananya Negi**
 
